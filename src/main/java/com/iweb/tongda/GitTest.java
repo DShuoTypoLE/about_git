@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello,git3--hot-fix!!!");
         System.out.println("master merge test!!!");
         System.out.println("hot-fix merge test!!!");
+        System.out.println("push test!!!");
     }
 }
